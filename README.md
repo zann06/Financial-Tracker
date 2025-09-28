@@ -22,8 +22,9 @@ Dilengkapi dengan tampilan minimalis, ringkasan saldo, serta laporan agar lebih 
 
 ---
 
-## 🌐 Demo
-👉 [Live Demo](https://zann06.github.io/financial-tracker)  
+## 🌐 Live Demo
+👉 [Coba Aplikasinya di sini](https://simple-financial-tracker.netlify.app)
+ 
 
 ---
 
