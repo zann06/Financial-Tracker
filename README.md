@@ -1,26 +1,32 @@
-📊 Financial Tracker
+# 📊 Financial Tracker
 
-Financial Tracker adalah aplikasi web sederhana untuk mencatat pemasukan dan pengeluaran harian.
-Dilengkapi dengan tampilan minimalis, ringkasan saldo, serta laporan pemasukan & pengeluaran agar lebih mudah mengelola keuangan pribadi.
+**Financial Tracker** adalah aplikasi web sederhana untuk mencatat **pemasukan** dan **pengeluaran** harian.  
+Dilengkapi dengan tampilan minimalis, ringkasan saldo, serta laporan agar lebih mudah mengelola keuangan pribadi.  
 
-✨ Fitur
+---
 
-🟢 Tambah pemasukan dan 🔴 pengeluaran dengan mudah
+## ✨ Fitur
+- 🟢 Tambah **pemasukan** dan 🔴 **pengeluaran** dengan mudah  
+- 💰 Hitung otomatis **saldo akhir**  
+- 📅 Simpan transaksi dengan tanggal & deskripsi  
+- 📋 Ringkasan total pemasukan & pengeluaran  
+- 🎨 Desain **minimalis, interaktif, dan mobile-friendly**  
 
-💰 Hitung otomatis saldo akhir
+---
 
-📅 Simpan transaksi dengan tanggal & deskripsi
+## 🚀 Cara Menggunakan
+1. Buka aplikasi di browser (desktop atau HP).  
+2. Isi data transaksi: tanggal, deskripsi, jumlah, dan pilih jenis transaksi.  
+3. Klik tombol **Tambah Transaksi**.  
+4. Saldo, pemasukan, dan pengeluaran akan otomatis ter-update.  
 
-📋 Ringkasan total pemasukan & pengeluaran
+---
 
-🎨 Desain minimalis, interaktif, dan mobile-friendly
+## 🌐 Demo
+👉 [Live Demo](https://zann06.github.io/financial-tracker)  
 
-🚀 Cara Menggunakan
+---
 
-Buka aplikasi di browser (desktop atau HP).
 
-Isi data transaksi: tanggal, deskripsi, jumlah, dan pilih jenis (pemasukan/pengeluaran).
-
-Klik tombol Tambah Transaksi.
-
-Saldo, pemasukan, dan pengeluaran akan otomatis ter-update.
+## 📄 Lisensi
+Proyek ini bersifat **open-source** dan bebas digunakan untuk belajar maupun kebutuhan pribadi.  
